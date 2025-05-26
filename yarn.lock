@@ -4546,9 +4546,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-training-kanban@workspace:.":
+"react-vite-personal-starter@workspace:.":
   version: 0.0.0-use.local
-  resolution: "react-training-kanban@workspace:."
+  resolution: "react-vite-personal-starter@workspace:."
   dependencies:
     "@commitlint/cli": "npm:^19.8.1"
     "@commitlint/config-conventional": "npm:^19.8.1"

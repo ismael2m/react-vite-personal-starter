@@ -1,5 +1,5 @@
 {
-  "name": "react-training-kanban",
+  "name": "react-vite-personal-starter",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,8 @@
     "preview": "vite preview",
     "prepare": "husky",
     "test": "vitest",
-    "test:ui": "vitest --ui"
+    "test:ui": "vitest --ui",
+    "test:coverage": "vitest --ui"
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.14",
