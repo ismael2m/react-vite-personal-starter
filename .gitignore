@@ -9,6 +9,7 @@ lerna-debug.log*
 .yarnrc.yml
 .yarn/*
 .husky/*
+coverage
 
 node_modules
 dist
